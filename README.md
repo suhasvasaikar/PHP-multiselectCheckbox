@@ -1,8 +1,8 @@
 # PHP-multiselectCheckbox
 Select Multiple Checkbox and Submit to PHP
-Author: Suhas Vasaikar
+</br>Author: Suhas Vasaikar
 
-This file provides PHP script for multiple select with checkbox.
+</br></br>This file provides PHP script for multiple select with checkbox.
 Step1- Copy file in your localhost folder.
 Step2- Open the PHP file in your localhost.
 Step3- Select multiple options and press submit.
